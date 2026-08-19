@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/utkarshmorwal/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/utkarshmorwal/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [1386-cinema-seat-allocation](https://github.com/utkarshmorwal/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/utkarshmorwal/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/utkarshmorwal/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/utkarshmorwal/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/utkarshmorwal/LeetCode/tree/master/0001-two-sum) |
+| [1386-cinema-seat-allocation](https://github.com/utkarshmorwal/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/utkarshmorwal/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/utkarshmorwal/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/utkarshmorwal/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -76,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/utkarshmorwal/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Greedy
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/utkarshmorwal/LeetCode/tree/master/1386-cinema-seat-allocation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/utkarshmorwal/LeetCode/tree/master/1386-cinema-seat-allocation) |
 <!---LeetCode Topics End-->
